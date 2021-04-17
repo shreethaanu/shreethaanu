@@ -1,4 +1,4 @@
-[![ShreeThaanu](https://res.cloudinary.com/strlabz/image/upload/v1618671812/SHREE_THAANU.png)][1]
+[![ShreeThaanu](https://res.cloudinary.com/strlabz/image/upload/v1618675333/Screenshot_2021-04-17_at_9.31.55_PM.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=thaanurk&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/thaanurk)
