@@ -8,7 +8,7 @@
 
 Hey 👋🏻,
 
-I am Design Technologist from India 🇮🇳 . I am interested in, write about and develop (web & mobile applications)
+I am ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop (web & mobile applications)
 for and with JavaScript, swift, ReactJS and python.
 
 You can see what I am currently up to on [strlabz.com][1].
