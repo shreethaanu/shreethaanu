@@ -90,5 +90,5 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 [6]: https://medium.com/@ShreethaanuR
 [7]: https://hashnode.com/@shreethaanu
 [8]: https://dev.to/thaanurk
-[11]: https://www.youtube.com/natterstefan?sub_confirmation=1
+[11]: https://www.youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA
 
