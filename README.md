@@ -1,4 +1,4 @@
-[![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+[![ShreeThaanu](https://res.cloudinary.com/strlabz/image/upload/v1618671812/SHREE_THAANU.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
