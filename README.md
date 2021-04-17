@@ -8,29 +8,28 @@
 
 Hey 👋🏻,
 
-I am Design Technologist from India
-🇦🇹. I am interested in, write about and develop (web & mobile applications)
+I am Design Technologist from India 🇮🇳 . I am interested in, write about and develop (web & mobile applications)
 for and with JavaScript, swift, ReactJS and python.
 
 You can see what I am currently up to on [strlabz.com][1].
 
 ## 📬 Get in touch
 
-- Web: [strlabz.com[1]
+- Web: [strlabz.com][1]
 - LinkedIn: [linkedin.com/in/shree-thaanu-raveendran-7a6275b2/][2]
-- Twitter: [twitter.com/natterstefan][3]
-- Blog: [blog.natterstefan.me][4]
-- YouTube: [youtube.com/natterstefan][11]
+- Twitter: [twitter.com/ShreeThaanu][3]
+- Blog: [learnwiththanu.blogspot.com][4]
+- YouTube: [youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA][11]
 - Other Channels:
-  - [dev.to/natterstefan][10]
-  - [medium.com/@natterstefan][6]
-  - [hashnode.com/@natterstefan][7]
+  - [dev.to/thaanurk][10]
+  - [medium.com/@ShreethaanuR][6]
+  - [hashnode.com/@shreethaanu][7]
 
 👉🏻👉🏻📧 Sign up for my [newsletter][5].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
+You can find my blog posts on [learnwiththanu.blogspot.com][4]. I write about things I
 am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 **NodeJS**. I also do reviews of software and hardware.
 
@@ -48,7 +47,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 - [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.natterstefan.me)
+➡️ [more blog posts...](https://strlabz.com)
 
 ## 📺 Latest YouTube Videos
 
