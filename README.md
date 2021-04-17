@@ -1,7 +1,7 @@
 [![ShreeThaanu](https://res.cloudinary.com/strlabz/image/upload/v1618671812/SHREE_THAANU.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
+[![GitHub Views](https://komarev.com/ghpvc/?username=thaanurk&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/thaanurk)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
@@ -40,11 +40,10 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Over Again and Unmute All Twitter Users.](https://blog.natterstefan.me/start-over-again-and-unmute-all-twitter-users)
-- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
-- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
-- [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
-- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
+- [MACHINE LEARNING FROM SCRATCH](https://learnwiththanu.blogspot.com/2018/04/machine-learning-from-scratch.html)
+- [TRAINING AND TESTING DATASET WITH PYTHON](https://learnwiththanu.blogspot.com/2018/04/training-and-testing-dataset-with-python.html)
+- [Sentiment Analysis](http://shree96thaanu.blogspot.com/2016/07/sentiment-analysis.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://strlabz.com)
@@ -54,23 +53,21 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
-- [How to fetch and log Crypto Prices with Deno [Live Stream]](https://www.youtube.com/watch?v=-ca0Pk1oTJQ)
-- [Setup Postgres and sequelize in a NodeJS application](https://www.youtube.com/watch?v=cvjhfuH4HrU)
-- [How to create a custom ESLint Plugin enforcing specified import patterns](https://www.youtube.com/watch?v=iVlg5pcs1yo)
-- [Setup a NodeJS server with Docker Deployment](https://www.youtube.com/watch?v=eJWNYFCrYfI)
+- [Augmented Reality - Tracker Based](https://www.youtube.com/watch?v=Vc-GeswbDjU)
+- [AUGMENTED REALITY_shreethaanu's](https://www.youtube.com/watch?v=8Mk6A1imI8U)
+- [AR - ML - IOS - SWIFT - ARKIT](https://www.youtube.com/watch?v=k9cWKVb-Eoc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-➡️ [more videos...](https://youtube.com/natterstefan)
+➡️ [more videos...](https://www.youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA)
 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on  in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-2. ❗️ Opened issue [#8](https://github.com/natterstefan/nextjs-template/issues/8) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🎉 Merged PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. ❗️ Opened issue [#7](https://github.com/natterstefan/nextjs-template/issues/7) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. ❗️ Opened issue [#6](https://github.com/natterstefan/nextjs-template/issues/6) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+1. 🗣 Commented on 
+2. ❗️ Opened issue 
+3. 🎉 Merged PR 
+4. ❗️ Opened issue 
+5. ❗️ Opened issue 
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
@@ -80,20 +77,18 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 </a>
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
 </a>
 
 [1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://twitter.com/intent/follow?screen_name=natterstefan
-[4]: https://blog.natterstefan.me
+  http://strlabz.com
+[2]: https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/
+[3]: https://twitter.com/ShreeThaanu
+[4]: https://learnwiththanu.blogspot.com/
 [5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
-[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
+  https://newsletter.thaanurk.me?utm_source=github.com&utm_medium=gh-profile-thaanurk&utm_campaign=thaanurk
+[6]: https://medium.com/@ShreethaanuR
+[7]: https://hashnode.com/@shreethaanu
+[8]: https://dev.to/thaanurk
+[9]: https://www.youtube.com/natterstefan?sub_confirmation=1
 
