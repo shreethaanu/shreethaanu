@@ -89,6 +89,6 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
   https://newsletter.thaanurk.me?utm_source=github.com&utm_medium=gh-profile-thaanurk&utm_campaign=thaanurk
 [6]: https://medium.com/@ShreethaanuR
 [7]: https://hashnode.com/@shreethaanu
-[8]: https://dev.to/thaanurk
+[10]: https://dev.to/thaanurk
 [11]: https://www.youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA
 
