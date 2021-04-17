@@ -35,7 +35,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+<!-- You can support me and [buy me a coffee][8], if you want. 🙏🏻 -->
 
 ## 📕 Latest Blog Posts
 
@@ -66,7 +66,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+1. 🗣 Commented on  in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
 2. ❗️ Opened issue [#8](https://github.com/natterstefan/nextjs-template/issues/8) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 3. 🎉 Merged PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 4. ❗️ Opened issue [#7](https://github.com/natterstefan/nextjs-template/issues/7) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
@@ -76,11 +76,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaanurk&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
 </a>
 
 [1]:
