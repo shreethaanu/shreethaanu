@@ -82,7 +82,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 </a>
 
 [1]:
-  http://strlabz.com
+  https://strlabz.com
 [2]: https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/
 [3]: https://twitter.com/ShreeThaanu
 [4]: https://learnwiththanu.blogspot.com/
