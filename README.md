@@ -61,16 +61,6 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA)
 
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on 
-2. ❗️ Opened issue 
-3. 🎉 Merged PR 
-4. ❗️ Opened issue 
-5. ❗️ Opened issue 
-<!--END_SECTION:activity-->
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/thaanurk">
