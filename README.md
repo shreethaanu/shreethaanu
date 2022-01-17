@@ -70,7 +70,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 <a href="https://github.com/thaanurk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
 </a>
-<a href="https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/shree.thaanu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 [1]:
   https://strlabz.com
 [2]: https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/
