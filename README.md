@@ -71,8 +71,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
 </a>
 
-[1]:
-  https://strlabz.com
+[1]: https://strlabz.com
 [2]: https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/
 [3]: https://twitter.com/ShreeThaanu
 [4]: https://learnwiththanu.blogspot.com/
