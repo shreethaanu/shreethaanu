@@ -9,7 +9,7 @@
 Hey 👋🏻,
 
 I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop (mobile & web applications)
-with swift, ReactJS, JavaScript and python.
+with swift, ReactJS, JavaScript and python. I also work on AR/VR apps and write articles about consumer facing applications.
 
 You can see what I am currently up to on [strlabz.com][1].
 
