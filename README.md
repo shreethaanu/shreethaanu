@@ -63,12 +63,12 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/thaanurk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaanurk&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/shreethaanu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreethaanu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/thaanurk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaanurk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
+<a href="https://github.com/shreethaanu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreethaanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
 </a>
 
 [1]: https://strlabz.com
@@ -76,9 +76,9 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 [3]: https://twitter.com/ShreeThaanu
 [4]: https://learnwiththanu.blogspot.com/
 [5]:
-  https://newsletter.thaanurk.me?utm_source=github.com&utm_medium=gh-profile-thaanurk&utm_campaign=thaanurk
+  https://newsletter.shreethaanu.me?utm_source=github.com&utm_medium=gh-profile-shreethaanu&utm_campaign=shreethaanu
 [6]: https://medium.com/@ShreethaanuR
 [7]: https://hashnode.com/@shreethaanu
-[10]: https://dev.to/thaanurk
+[10]: https://dev.to/shreethaanu
 [11]: https://www.youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA
 
