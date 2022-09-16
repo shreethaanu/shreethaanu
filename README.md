@@ -16,7 +16,7 @@ You can see what I am currently up to on [strlabz.com][1].
 ## 📬 Get in touch
 
 - Web: [strlabz.com][1]
-- LinkedIn: [https://www.linkedin.com/in/shreethaanu-raveendran-7a6275b2/][2]
+- LinkedIn: [inkedin.com/in/shreethaanu-raveendran-7a6275b2/][2]
 - Twitter: [twitter.com/ShreeThaanu][3]
 - Blog: [https://blog.strlabz.com/][4]
 - YouTube: [youtube.com/channel/UC8P95I32D4v2cyeQ2xaWaZA][11]
@@ -72,7 +72,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 </a>
 
 [1]: https://strlabz.com
-[2]: https://www.linkedin.com/in/shree-thaanu-raveendran-7a6275b2/
+[2]: https://www.linkedin.com/in/shreethaanu-raveendran-7a6275b2/
 [3]: https://twitter.com/ShreeThaanu
 [4]: https://blog.strlabz.com/
 [5]:
