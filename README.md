@@ -9,7 +9,7 @@
 Hey 👋🏻,
 
 I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop (mobile & web applications)
-with swift, ReactJS, JavaScript and python. I also work on AR/VR apps and write articles about consumer facing applications.
+with swift, ReactJS, JavaScript and python. I also work on XR apps and write articles about consumer facing applications.
 
 You can see what I am currently up to on [strlabz.com][1].
 
@@ -41,13 +41,13 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MACHINE LEARNING FROM SCRATCH](https://learnwiththanu.blogspot.com/2018/04/machine-learning-from-scratch.html)
-- [TRAINING AND TESTING DATASET WITH PYTHON](https://learnwiththanu.blogspot.com/2018/04/training-and-testing-dataset-with-python.html)
-- [Sentiment Analysis](http://shree96thaanu.blogspot.com/2016/07/sentiment-analysis.html)
+- [converted my room into a VR Game](https://blog.strlabz.com/how-i-converted-my-room-into-a-virtual-reality-game)
+- [Advice About iOS UI From my 5 years of Experience](https://blog.strlabz.com/sage-advice-about-ios-ui-from-my-5-years-of-experience)
+- [My Developer Setup 2022](https://blog.strlabz.com/my-developer-setup-2022)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://strlabz.com)
+➡️ [more blog posts...](https://blog.strlabz.com/)
 
 ## 📺 Latest YouTube Videos
 
