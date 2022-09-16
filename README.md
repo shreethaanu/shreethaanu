@@ -35,7 +35,7 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 
 ## 🤜🏻🤛🏻 Support Me
 
-[ BUY ME A COFFEE OR BEER ](https://buymeacoffee.com/shreet)
+[ If you like my work buy me a coffee ](https://buymeacoffee.com/shreet)
 <!-- You can support me and [buy me a coffee][8], if you want. 🙏🏻 -->
 
 ## 📕 Latest Blog Posts
