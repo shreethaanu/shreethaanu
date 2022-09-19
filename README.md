@@ -8,8 +8,8 @@
 
 Hey 👋🏻,
 
-I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop (mobile & web applications)
-with swift, ReactJS, JavaScript and python. I also work on XR apps and write articles about consumer facing applications.
+I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop mobile, VR and Web Applications
+with swift, JavaScript, python & c#. I also work in frameworks like React, Reactnative and flutter. I'm currently working and researching on XR and metaverse about how they can transform the digital era.
 
 You can see what I am currently up to on [strlabz.com][1].
 
@@ -29,7 +29,7 @@ You can see what I am currently up to on [strlabz.com][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [learnwiththanu.blogspot.com][4]. I write about things I
+You can find my blog posts on [https://blog.strlabz.com/][4]. I write about things I
 am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 **NodeJS**. I also do reviews of software and hardware.
 
