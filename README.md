@@ -71,8 +71,6 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreethaanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ShreeThaanu's GitHub Stats" />
 </a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Glimpse of my first work in AfterEffects and i cant keep calm to check it in AR, decided to write a simple app to track image and place video on it. worthy for a 20 mins work. <a href="https://t.co/9WcMvfknZ4">pic.twitter.com/9WcMvfknZ4</a></p>&mdash; Shree_Thaanu (@ShreeThaanu) <a href="https://twitter.com/ShreeThaanu/status/1572508104545439749?ref_src=twsrc%5Etfw">September 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [1]: https://strlabz.com
 [2]: https://www.linkedin.com/in/shreethaanu-raveendran-7a6275b2/
 [3]: https://twitter.com/ShreeThaanu
