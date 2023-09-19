@@ -31,8 +31,8 @@ You can see what I am currently up to on [strlabz.com][1].
 ## 🌳 My Digital Garden
 
 You can find my blog posts on [https://blog.strlabz.com/][4]. I write about things I
-am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
+am familiar with including **Swift**, **JS**, **Product Management**, and
+**XR**. I also do reviews of software and hardware.
 
 ## 🤜🏻🤛🏻 Support Me
 
