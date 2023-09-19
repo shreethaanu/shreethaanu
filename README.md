@@ -10,7 +10,7 @@
 Hey 👋🏻,
 
 I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop mobile, VR and Web Applications
-with swift, JavaScript, python & c#. I also work in frameworks like React, Reactnative and flutter. I'm currently working and researching on XR and metaverse about how they can transform the digital era.
+with swift, JavaScript, python & c#. I also work in frameworks like SwiftUI, Combine, React/Reactnative and ARKit/ARCore. I'm currently researching on XR about how they can transform the digital era for mobile users on day to day life by WebXR & AR Apps.
 
 You can see what I am currently up to on [strlabz.com][1].
 
