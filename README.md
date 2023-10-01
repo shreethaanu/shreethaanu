@@ -9,8 +9,10 @@
 
 Hey 👋🏻,
 
-I'm ShreeThaanu, Design Technologist from India 🇮🇳 . I am interested in, write about and develop mobile, VR and Web Applications
-with swift, JavaScript, python & c#. I also work in frameworks like SwiftUI, Combine, React/Reactnative and ARKit/ARCore. I'm currently researching on XR about how they can transform the digital era for mobile users on day to day life by WebXR & AR Apps.
+Vanakkam 🫶! I'm ShreeThaanu, an Indian 🇮🇳 Design Technologist, wielding the powerful languages Swift, JavaScript, Python, and C# to conjure up mobile, VR, and web applications. My arsenal includes SwiftUI, Combine, React/React Native, and the wizardry of ARKit/ARCore.
+
+Currently, I'm on an electrifying XR expedition, unearthing how WebXR and AR Apps are poised to revolutionize the digital realm for everyday mobile adventurers. 
+Join me in decoding the future! ⚡📱💻 #TechVoyager #XRTrailblazer #earthling
 
 You can see what I am currently up to on [strlabz.com][1].
 
