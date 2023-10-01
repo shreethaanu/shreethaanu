@@ -9,7 +9,7 @@
 
 Hey 👋🏻,
 
-Vanakkam 🫶! I'm ShreeThaanu, an Indian 🇮🇳 Design Technologist, wielding the powerful languages Swift, JavaScript, Python, and C# to conjure up mobile, VR, and web applications. My arsenal includes SwiftUI, Combine, React/React Native, and the wizardry of ARKit/ARCore.
+Vanakkam 🫶, I'm ShreeThaanu, an Indian 🇮🇳 Design Technologist, wielding the powerful languages Swift, JavaScript, Python, and C# to conjure up mobile, VR, and web applications. My arsenal includes SwiftUI, Combine, React/React Native, and the wizardry of ARKit/ARCore.
 
 Currently, I'm on an electrifying XR expedition, unearthing how WebXR and AR Apps are poised to revolutionize the digital realm for everyday mobile adventurers. 
 Join me in decoding the future! ⚡📱💻 #TechVoyager #XRTrailblazer #earthling
